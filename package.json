@@ -1,23 +1,22 @@
 {
-  "name": "102242022410324-3",
+  "name": "project-3",
   "version": "1.0.0",
-  "description": ">> N: NodeJs",
+  "description": "Welcome To My Third Project!",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "rohan": "node server.js",
     "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohandevtown/102242022410324-3.git"
+    "url": "git+https://github.com/Souravgguptan/PROJECT-3.git"
   },
-  "author": "rohan kinnal",
+  "author": "Sourav G Guptan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohandevtown/102242022410324-3/issues"
+    "url": "https://github.com/Souravgguptan/PROJECT-3/issues"
   },
-  "homepage": "https://github.com/rohandevtown/102242022410324-3#readme",
+  "homepage": "https://github.com/Souravgguptan/PROJECT-3#readme",
   "dependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.0"
