@@ -1,6 +1,6 @@
 const http = require("http"); // package import
 
-const port = 8081; // PORT Num
+const port = 8081; // PORT Number
 
 const toDoList = ["rohan", "rohit", "anil", "anup"];
 
